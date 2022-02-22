@@ -7,6 +7,7 @@ using System.Threading.Tasks;
 using static ConsoleApp1.Solution;
 using ConsoleApp1.Type.Algorithms;
 using ConsoleApp1.Type.DS;
+using static ConsoleApp1.Type.BST.Binary_Inorder_Traversal;
 
 namespace ConsoleApp1
 {
@@ -24,14 +25,7 @@ namespace ConsoleApp1
 
             //new ContainsNearbyDuplicate2().ContainsNearbyDuplicate(new int[] { 1, 0, 1, 1 }, 1);
             new ContainsNearbyAlmostDuplicate2().ContainsNearbyAlmostDuplicate(new int[] { -2147483648, 2147483647 },1,1);
-            //new ContainsNearbyDuplicate2().ContainsNearbyDuplicate(new int[] { 0, 1, 2, 3, 4, 0, 0, 7, 8, 9, 10, 11, 12, 0, 1 }, 1);
-            //new ContainsDuplicate2().ContainsDuplicate(new int[] { 1, 2, 3, 1 });
-            //    new Binary_Search().Search(new int[] { 2,5 }, 2);
-            //new Binary_Search().Search(new int[] { -1, 0, 3, 5, 9, 12 }, 9);
-            ////new MinCostClimbingStairsS().MinCostClimbingStairs(new int[] { 1, 100, 1, 1, 1, 100, 1, 1, 100, 1 });
-            //new HouseRobber().Rob(new int[] { 2, 7, 9, 3, 1 });
-            //string[] firstMultipleInput = Console.ReadLine().TrimEnd().Split(' ');
-
+        
             //int x1 = Convert.ToInt32(firstMultipleInput[0]);
 
             //int v1 = Convert.ToInt32(firstMultipleInput[1]);
