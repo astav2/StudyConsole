@@ -61,6 +61,7 @@
     <Compile Include="Solution.cs" />
     <Compile Include="Type\Algorithms\Binary Search.cs" />
     <Compile Include="Type\Algorithms\TwoSum.cs" />
+    <Compile Include="Type\BST\Binary Inorder Traversal.cs" />
     <Compile Include="Type\Call FLow\CallFlow.cs" />
     <Compile Include="Type\DP\1_Fibonacci Number.cs" />
     <Compile Include="Type\DP\2_Tribonacci Number.cs" />
