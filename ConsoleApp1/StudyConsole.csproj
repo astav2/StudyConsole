@@ -67,6 +67,7 @@
     <Compile Include="Type\DP\2_Tribonacci Number.cs" />
     <Compile Include="Type\DP\4_MinCostClimbingStairs.cs" />
     <Compile Include="Type\DP\5_HouseRobber.cs" />
+    <Compile Include="Type\DP\6_Smallest String With A Given Numeric Value.cs" />
     <Compile Include="Type\DS\ContainsDuplicate.cs" />
     <Compile Include="Type\DS\ContainsNearbyAlmostDuplicate.cs" />
     <Compile Include="Type\DS\ContainsNearbyDuplicate.cs" />
