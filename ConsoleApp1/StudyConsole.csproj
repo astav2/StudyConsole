@@ -8,7 +8,7 @@
     <OutputType>Exe</OutputType>
     <RootNamespace>ConsoleApp1</RootNamespace>
     <AssemblyName>ConsoleApp1</AssemblyName>
-    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
     <Deterministic>true</Deterministic>
@@ -60,6 +60,7 @@
     <Compile Include="Result.cs" />
     <Compile Include="Solution.cs" />
     <Compile Include="Type\Algorithms\Binary Search.cs" />
+    <Compile Include="Type\Algorithms\find-peak-element.cs" />
     <Compile Include="Type\Algorithms\TwoSum.cs" />
     <Compile Include="Type\BST\Binary Inorder Traversal.cs" />
     <Compile Include="Type\Call FLow\CallFlow.cs" />
