@@ -21,11 +21,12 @@ namespace ConsoleApp1
 
         private static void Start()
         {
+            new single_element_in_a_sorted_array().SingleNonDuplicate(new int[] { 1, 1, 2, 3, 3, 4, 4, 8, 8 });
             // new CallFlow().CreateWOTasksWithFlow();
 
             //new ContainsNearbyDuplicate2().ContainsNearbyDuplicate(new int[] { 1, 0, 1, 1 }, 1);
-            new ContainsNearbyAlmostDuplicate2().ContainsNearbyAlmostDuplicate(new int[] { -2147483648, 2147483647 },1,1);
-        
+            //  new ContainsNearbyAlmostDuplicate2().ContainsNearbyAlmostDuplicate(new int[] { -2147483648, 2147483647 },1,1);
+
             //int x1 = Convert.ToInt32(firstMultipleInput[0]);
 
             //int v1 = Convert.ToInt32(firstMultipleInput[1]);
@@ -38,7 +39,7 @@ namespace ConsoleApp1
             //// new Solution().IsValid("()[]{}");          
             //new Solution().LetterCombinations("2458");
             //new Solution().LetterCombinations("");
-            LinkedListNode<int> lists = new LinkedListNode<int>(2);
+            // LinkedListNode<int> lists = new LinkedListNode<int>(2);
 
             //new Solution().RemoveNthFromEnd([1, 2, 3, 4, 5],2);
             // new Solution().ThreeSumClosest(new int[] { -1, 2, 1, -4, 4, 6, 7 },7);
