@@ -60,11 +60,16 @@
     <Compile Include="Result.cs" />
     <Compile Include="Solution.cs" />
     <Compile Include="Type\Algorithms\Binary Search.cs" />
+    <Compile Include="Type\Algorithms\binary-search-2d.cs" />
+    <Compile Include="Type\Algorithms\capacity-to-ship-packages-within-d-days.cs" />
+    <Compile Include="Type\Algorithms\find-minimum-in-rotated-sorted-array.cs" />
     <Compile Include="Type\Algorithms\find-peak-element.cs" />
+    <Compile Include="Type\Algorithms\koko-eating-bananas.cs" />
     <Compile Include="Type\Algorithms\single-element-in-a-sorted-array.cs" />
     <Compile Include="Type\Algorithms\TwoSum.cs" />
     <Compile Include="Type\BST\Binary Inorder Traversal.cs" />
     <Compile Include="Type\Call FLow\CallFlow.cs" />
+    <Compile Include="Type\check-if-n-and-its-double-exist.cs" />
     <Compile Include="Type\DP\1_Fibonacci Number.cs" />
     <Compile Include="Type\DP\2_Tribonacci Number.cs" />
     <Compile Include="Type\DP\4_MinCostClimbingStairs.cs" />

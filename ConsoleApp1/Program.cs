@@ -8,6 +8,7 @@ using static ConsoleApp1.Solution;
 using ConsoleApp1.Type.Algorithms;
 using ConsoleApp1.Type.DS;
 using static ConsoleApp1.Type.BST.Binary_Inorder_Traversal;
+using ConsoleApp1.Type;
 
 namespace ConsoleApp1
 {
@@ -21,7 +22,10 @@ namespace ConsoleApp1
 
         private static void Start()
         {
-            new single_element_in_a_sorted_array().SingleNonDuplicate(new int[] { 1, 1, 2, 3, 3, 4, 4, 8, 8 });
+            //new single_element_in_a_sorted_array().SingleNonDuplicate(new int[] { 1, 1, 2, 3, 3, 4, 4, 8, 8 });
+            //new capacity_to_ship_packages_within_d_days().ShipWithinDays(new int[] { 1, 2, 3, 4, 5, 6, 7, 8, 9, 10 },5);
+            //new koko_eating_bananas().MinEatingSpeed(new int[] { 3, 6, 7, 11 }, 8);
+            new check_if_n_and_its_double_exist().CheckIfExist(new int[] { -2, 0, 10, -19, 4, 6, -8});
             // new CallFlow().CreateWOTasksWithFlow();
 
             //new ContainsNearbyDuplicate2().ContainsNearbyDuplicate(new int[] { 1, 0, 1, 1 }, 1);
